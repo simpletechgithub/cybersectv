@@ -7,7 +7,7 @@ Current skills
 Citrix Cloud, PowerShell, Hyper-V and VMware, Testing Infrastructure and some basic knowledge on Finance Apps
 
 - 🌱 I’m currently diving into Cyber Security, coupling this with Infrastructure: setting up my own Test labs via PowerShell to automate routine Windows Tasks.
-- 📫 How to reach me ... [cybersectv@protonmail.com] [https://twitter.com/cybersec_tv]
+- 📫 How to reach me ... [https://twitter.com/cybersec_tv]
 
 <!---
 cybersectv/cybersectv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
