@@ -8,6 +8,8 @@ Citrix Cloud, PowerShell, Hyper-V and VMware, Testing Infrastructure and some ba
 
 - 🌱 I’m currently diving into Cyber Security, coupling this with Infrastructure: setting up my own Test labs via PowerShell to automate routine Windows Tasks.
 - 📫 How to reach me ... [https://twitter.com/cybersec_tv]
+- ✨ Special Mention for [Planet PowerShell](https://twitter.com/planetpshell)
+- ✨ [Paolo Frigo's PowerShell scripting library](https://github.com/PaoloFrigo/scriptinglibrary/tree/master/Blog/PowerShell)
 
 <!---
 cybersectv/cybersectv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
